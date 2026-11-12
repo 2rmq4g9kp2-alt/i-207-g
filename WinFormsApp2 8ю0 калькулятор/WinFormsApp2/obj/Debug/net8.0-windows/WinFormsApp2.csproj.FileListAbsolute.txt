@@ -1,0 +1,62 @@
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\user\Source\Repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\клькуляторы и paint 445\WinFormsApp2 8ю0 калькулятор\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll

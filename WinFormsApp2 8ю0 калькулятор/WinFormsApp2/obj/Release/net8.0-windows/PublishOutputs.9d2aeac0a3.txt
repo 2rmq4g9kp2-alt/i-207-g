@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\мультимедия\WinFormsApp2.exe
+C:\Users\user\OneDrive\Desktop\мультимедия\WinFormsApp2.dll
+C:\Users\user\OneDrive\Desktop\мультимедия\WinFormsApp2.deps.json
+C:\Users\user\OneDrive\Desktop\мультимедия\WinFormsApp2.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\мультимедия\WinFormsApp2.pdb
